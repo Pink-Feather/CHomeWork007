@@ -1,0 +1,15 @@
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\bin\Debug\net6.0\007_2.exe
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\bin\Debug\net6.0\007_2.deps.json
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\bin\Debug\net6.0\007_2.runtimeconfig.json
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\bin\Debug\net6.0\007_2.dll
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\bin\Debug\net6.0\007_2.pdb
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.csproj.AssemblyReference.cache
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.AssemblyInfoInputs.cache
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.AssemblyInfo.cs
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.csproj.CoreCompileInputs.cache
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.dll
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\refint\007_2.dll
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.pdb
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\007_2.genruntimeconfig.cache
+C:\ДИСК\Учеба\C#HomeWork\007\007_2\obj\Debug\net6.0\ref\007_2.dll
